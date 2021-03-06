@@ -1,0 +1,21 @@
+﻿{
+  "individualMultiplier": {
+    "kills": 2,
+    "deaths": -0.5,
+    "assists": 1.5,
+    "creepScore": 0.02,
+    "firstBloodBonus": 3,
+    "tripleKills": 4,
+    "quadraKills": 8,
+    "pentaKills": 12
+  },
+  "teamMultiplier": {
+    "turrets": 1.5,
+    "dragons": 2,
+    "elderDragons": 5,
+    "barons": 3,
+    "wins": 5,
+    "firstTurretBonus": 2,
+    "winLessThanThirtyMinutes": 4
+  }
+}

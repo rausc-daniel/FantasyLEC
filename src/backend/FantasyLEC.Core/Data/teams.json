@@ -1,0 +1,672 @@
+﻿[
+  {
+    "id": 9,
+    "slug": "sk-gaming",
+    "name": "SK Gaming",
+    "code": "SK",
+    "image": "http://static.lolesports.com/teams/SK_FullColor.png",
+    "alternativeImage": "http://static.lolesports.com/teams/SK_FullColor.png",
+    "backgroundImage": "https://lolstatic-a.akamaihd.net/esports-assets/production/team/sk-gaming-2cd63tzz.png",
+    "status": "active",
+    "homeLeague": { "name": "LEC", "region": "EUROPE" },
+    "players": [
+      {
+        "id": 90,
+        "summonerName": "Jenax",
+        "firstName": "Janik",
+        "lastName": "Bartels",
+        "image": "http://static.lolesports.com/players/SK_JENAX.png",
+        "role": 0,
+        "teamId": 9,
+        "countryCode": "de"
+      },
+      {
+        "id": 91,
+        "summonerName": "TynX",
+        "firstName": "Kristian",
+        "lastName": "\u00d8stergaard Hansen",
+        "image": "http://static.lolesports.com/players/SK_TYNX.png",
+        "role": 1,
+        "teamId": 9,
+        "countryCode": "dk"
+      },
+      {
+        "id": 93,
+        "summonerName": "Jezu",
+        "firstName": "Jean",
+        "lastName": "Massol",
+        "image": "http://static.lolesports.com/players/SK_JEZU.png",
+        "role": 3,
+        "teamId": 9,
+        "countryCode": "fr"
+      },
+      {
+        "id": 94,
+        "summonerName": "Treatz",
+        "firstName": "Erik",
+        "lastName": "Wess\u00e9n",
+        "image": "http://static.lolesports.com/players/SK_TREATZ.png",
+        "role": 4,
+        "teamId": 9,
+        "countryCode": "se"
+      },
+      {
+        "id": 92,
+        "summonerName": "Blue",
+        "firstName": "Ersin",
+        "lastName": "G\u00f6ren",
+        "image": "http://static.lolesports.com/players/SK_BLUE.png",
+        "role": 2,
+        "teamId": 9,
+        "countryCode": "be"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "origen",
+    "name": "Astralis",
+    "code": "AST",
+    "image": "http://static.lolesports.com/teams/AST-FullonDark.png",
+    "alternativeImage": "http://static.lolesports.com/teams/AST-FullonLight.png",
+    "backgroundImage": "http://static.lolesports.com/teams/AstralisAST.png",
+    "status": "active",
+    "homeLeague": { "name": "LEC", "region": "EUROPE" },
+    "players": [
+      {
+        "id": 62,
+        "summonerName": "nukeduck",
+        "firstName": "Erlend",
+        "lastName": "Holm",
+        "image": "http://static.lolesports.com/players/AST_NUKEDUCK.png",
+        "role": 2,
+        "teamId": 6,
+        "countryCode": "no"
+      },
+      {
+        "id": 60,
+        "summonerName": "WhiteKnight",
+        "firstName": "Matti",
+        "lastName": "Sormunen",
+        "image": "http://static.lolesports.com/players/AST_WHITEKNIGHT.png",
+        "role": 0,
+        "teamId": 6,
+        "countryCode": "fi"
+      },
+      {
+        "id": 61,
+        "summonerName": "Zanzarah",
+        "firstName": "Nikolay",
+        "lastName": "Akatov",
+        "image": "http://static.lolesports.com/players/AST_ZANZARAH.png",
+        "role": 1,
+        "teamId": 6,
+        "countryCode": "ru"
+      },
+      {
+        "id": 63,
+        "summonerName": "Jeskla",
+        "firstName": "Jesper Klarin",
+        "lastName": "Stromberg",
+        "image": "http://static.lolesports.com/players/AST_JESKLA.png",
+        "role": 3,
+        "teamId": 6,
+        "countryCode": "se"
+      },
+      {
+        "id": 64,
+        "summonerName": "promisq",
+        "firstName": "Hampus",
+        "lastName": "Abrahamsson",
+        "image": "http://static.lolesports.com/players/AST_PROMISQ.png",
+        "role": 4,
+        "teamId": 6,
+        "countryCode": "se"
+      },
+      {
+        "id": 67,
+        "summonerName": "MagiFelix",
+        "firstName": "Felix",
+        "lastName": "Bostr\u00f6m",
+        "image": "https://lolstatic-a.akamaihd.net/esports-assets/production/player/magifelix-f98zv79q.png",
+        "role": 2,
+        "teamId": 6,
+        "countryCode": "se"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "excel-esports",
+    "name": "EXCEL Esports",
+    "code": "XL",
+    "image": "http://static.lolesports.com/teams/Excel_FullColor2.png",
+    "alternativeImage": "http://static.lolesports.com/teams/Excel_FullColor1.png",
+    "backgroundImage": "http://static.lolesports.com/teams/ExcelXL.png",
+    "status": "active",
+    "homeLeague": { "name": "LEC", "region": "EUROPE" },
+    "players": [
+      {
+        "id": 73,
+        "summonerName": "Patrik",
+        "firstName": "Patrik",
+        "lastName": "Jiru",
+        "image": "http://static.lolesports.com/players/XL_PATRIK.png",
+        "role": 3,
+        "teamId": 7,
+        "countryCode": "cz"
+      },
+      {
+        "id": 74,
+        "summonerName": "Tore",
+        "firstName": "Tore",
+        "lastName": "Hoel Eilertsen",
+        "image": "http://static.lolesports.com/players/XL_TORE.png",
+        "role": 4,
+        "teamId": 7,
+        "countryCode": "no"
+      },
+      {
+        "id": 70,
+        "summonerName": "Kryze",
+        "firstName": "Felix",
+        "lastName": "Hellstr\u00f6m",
+        "image": "http://static.lolesports.com/players/XL_KRYZE.png",
+        "role": 0,
+        "teamId": 7,
+        "countryCode": "se"
+      },
+      {
+        "id": 71,
+        "summonerName": "Dan",
+        "firstName": "Daniel",
+        "lastName": "Hockley",
+        "image": "http://static.lolesports.com/players/XL_DAN.png",
+        "role": 1,
+        "teamId": 7,
+        "countryCode": "gb"
+      },
+      {
+        "id": 72,
+        "summonerName": "Czekolad",
+        "firstName": "Pavel",
+        "lastName": "Szczepanik",
+        "image": "http://static.lolesports.com/players/XL_CZEKOLAD.png",
+        "role": 2,
+        "teamId": 7,
+        "countryCode": "pl"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "rogue",
+    "name": "Rogue",
+    "code": "RGE",
+    "image": "http://static.lolesports.com/teams/Rogue_FullColor2.png",
+    "alternativeImage": null,
+    "backgroundImage": "https://lolstatic-a.akamaihd.net/esports-assets/production/team/rogue-ej3s3zj5.png",
+    "status": "active",
+    "homeLeague": { "name": "LEC", "region": "EUROPE" },
+    "players": [
+      {
+        "id": 32,
+        "summonerName": "Larssen",
+        "firstName": "Emil",
+        "lastName": "Larsson",
+        "image": "http://static.lolesports.com/players/RGE_LARSSEN.png",
+        "role": 2,
+        "teamId": 3,
+        "countryCode": "se"
+      },
+      {
+        "id": 31,
+        "summonerName": "Inspired",
+        "firstName": "Kacper",
+        "lastName": "Sloma",
+        "image": "http://static.lolesports.com/players/RGE_INSPIRED.png",
+        "role": 1,
+        "teamId": 3,
+        "countryCode": "pl"
+      },
+      {
+        "id": 33,
+        "summonerName": "Hans sama",
+        "firstName": "Steven",
+        "lastName": "Liv",
+        "image": "http://static.lolesports.com/players/RGE_HANS_SAMA.png",
+        "role": 3,
+        "teamId": 3,
+        "countryCode": "fr"
+      },
+      {
+        "id": 30,
+        "summonerName": "Odoamne",
+        "firstName": "Andrei",
+        "lastName": "Pascu",
+        "image": "http://static.lolesports.com/players/RGE_ODOAMNE.png",
+        "role": 0,
+        "teamId": 3,
+        "countryCode": "ro"
+      },
+      {
+        "id": 34,
+        "summonerName": "Trymbi",
+        "firstName": "Adrian",
+        "lastName": "Trybus",
+        "image": "http://static.lolesports.com/players/RGE_TRYMBI.png",
+        "role": 4,
+        "teamId": 3,
+        "countryCode": "pl"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "mad-lions",
+    "name": "MAD Lions",
+    "code": "MAD",
+    "image": "http://static.lolesports.com/teams/1592591395339_MadLionsMAD-01-FullonDark.png",
+    "alternativeImage": "http://static.lolesports.com/teams/1592591395341_MadLionsMAD-03-FullonLight.png",
+    "backgroundImage": "http://static.lolesports.com/teams/MAD.png",
+    "status": "active",
+    "homeLeague": { "name": "LEC", "region": "EUROPE" },
+    "players": [
+      {
+        "id": 42,
+        "summonerName": "Humanoid",
+        "firstName": " Marek",
+        "lastName": "Br\u00e1zda",
+        "image": "http://static.lolesports.com/players/MAD_Humanoid.png",
+        "role": 2,
+        "teamId": 4,
+        "countryCode": "cz"
+      },
+      {
+        "id": 43,
+        "summonerName": "Carzzy",
+        "firstName": "Maty\u00e1\u0161",
+        "lastName": "Ors\u00e1g",
+        "image": "http://static.lolesports.com/players/MAD_Carzzy.png",
+        "role": 3,
+        "teamId": 4,
+        "countryCode": "cz"
+      },
+      {
+        "id": 44,
+        "summonerName": "Kaiser",
+        "firstName": "Norman",
+        "lastName": "Kaiser",
+        "image": "http://static.lolesports.com/players/MAD_Kaiser.png",
+        "role": 4,
+        "teamId": 4,
+        "countryCode": "de"
+      },
+      {
+        "id": 40,
+        "summonerName": "Armut",
+        "firstName": "\u0130rfan",
+        "lastName": "T\u00fckek",
+        "image": "http://static.lolesports.com/players/MAD_Armut.png",
+        "role": 0,
+        "teamId": 4,
+        "countryCode": "tr"
+      },
+      {
+        "id": 41,
+        "summonerName": "Elyoya",
+        "firstName": "Javier",
+        "lastName": "Prades",
+        "image": "http://static.lolesports.com/players/MAD_Elyoya.png",
+        "role": 1,
+        "teamId": 4,
+        "countryCode": "es"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "fnatic",
+    "name": "Fnatic",
+    "code": "FNC",
+    "image": "http://static.lolesports.com/teams/1592591295307_FnaticFNC-01-FullonDark.png",
+    "alternativeImage": "http://static.lolesports.com/teams/1592591295310_FnaticFNC-03-FullonLight.png",
+    "backgroundImage": "https://lolstatic-a.akamaihd.net/esports-assets/production/team/fnatic-719v4q48.png",
+    "status": "active",
+    "homeLeague": { "name": "LEC", "region": "EUROPE" },
+    "players": [
+      {
+        "id": 24,
+        "summonerName": "Hylissang",
+        "firstName": "Zdravets",
+        "lastName": "Iliev Galabov",
+        "image": "http://static.lolesports.com/players/FNC_HYLISSANG.png",
+        "role": 4,
+        "teamId": 2,
+        "countryCode": "bg"
+      },
+      {
+        "id": 20,
+        "summonerName": "Bwipo",
+        "firstName": "Gabriel",
+        "lastName": "Rau",
+        "image": "http://static.lolesports.com/players/FNC_BWIPO.png",
+        "role": 0,
+        "teamId": 2,
+        "countryCode": "be"
+      },
+      {
+        "id": 21,
+        "summonerName": "Selfmade",
+        "firstName": "Oskar",
+        "lastName": "Boderek",
+        "image": "http://static.lolesports.com/players/FNC_SELFMADE.png",
+        "role": 1,
+        "teamId": 2,
+        "countryCode": "pl"
+      },
+      {
+        "id": 22,
+        "summonerName": "Nisqy",
+        "firstName": "Yasin",
+        "lastName": "Dincer",
+        "image": "http://static.lolesports.com/players/FNC_NISQY.png",
+        "role": 2,
+        "teamId": 2,
+        "countryCode": "be"
+      },
+      {
+        "id": 23,
+        "summonerName": "Upset",
+        "firstName": "Elias",
+        "lastName": "Lipp",
+        "image": "http://static.lolesports.com/players/FNC_UPSET.png",
+        "role": 3,
+        "teamId": 2,
+        "countryCode": "de"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "slug": "g2-esports",
+    "name": "G2 Esports",
+    "code": "G2",
+    "image": "http://static.lolesports.com/teams/G2-FullonDark.png",
+    "alternativeImage": "http://static.lolesports.com/teams/G2-FullonLight.png",
+    "backgroundImage": "http://static.lolesports.com/teams/G2.png",
+    "status": "active",
+    "homeLeague": { "name": "LEC", "region": "EUROPE" },
+    "players": [
+      {
+        "id": 11,
+        "summonerName": "Jankos",
+        "firstName": "Marcin",
+        "lastName": "Jankowski",
+        "image": "http://static.lolesports.com/players/G2_JANKOS.png",
+        "role": 1,
+        "teamId": 1,
+        "countryCode": "pl"
+      },
+      {
+        "id": 10,
+        "summonerName": "Wunder",
+        "firstName": "Martin",
+        "lastName": "Hansen",
+        "image": "http://static.lolesports.com/players/G2_WUNDER.png",
+        "role": 0,
+        "teamId": 1,
+        "countryCode": "dk"
+      },
+      {
+        "id": 14,
+        "summonerName": "Mikyx",
+        "firstName": "Mihael",
+        "lastName": "Mehle",
+        "image": "http://static.lolesports.com/players/G2_MICKYX.png",
+        "role": 4,
+        "teamId": 1,
+        "countryCode": "si"
+      },
+      {
+        "id": 12,
+        "summonerName": "Caps",
+        "firstName": "Rasmus",
+        "lastName": "Winther",
+        "image": "http://static.lolesports.com/players/G2_CAPS.png",
+        "role": 2,
+        "teamId": 1,
+        "countryCode": "dk"
+      },
+      {
+        "id": 13,
+        "summonerName": "Rekkles",
+        "firstName": "Martin",
+        "lastName": "Larsson",
+        "image": "http://static.lolesports.com/players/G2_REKKLES.png",
+        "role": 3,
+        "teamId": 1,
+        "countryCode": "se"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "misfits",
+    "name": "Misfits Gaming",
+    "code": "MSF",
+    "image": "http://static.lolesports.com/teams/1592591419157_MisfitsMSF-01-FullonDark.png",
+    "alternativeImage": "http://static.lolesports.com/teams/1592591419159_MisfitsMSF-03-FullonLight.png",
+    "backgroundImage": "https://lolstatic-a.akamaihd.net/esports-assets/production/team/misfits-8jl8fmhb.png",
+    "status": "active",
+    "homeLeague": { "name": "LEC", "region": "EUROPE" },
+    "players": [
+      {
+        "id": 81,
+        "summonerName": "Razork",
+        "firstName": "Iv\u00e1n",
+        "lastName": "Mart\u00edn",
+        "image": "http://static.lolesports.com/players/MSF_RAZORK.png",
+        "role": 1,
+        "teamId": 8,
+        "countryCode": "es"
+      },
+      {
+        "id": 89,
+        "summonerName": "denyk",
+        "firstName": "Petr",
+        "lastName": "Haramach",
+        "image": "http://static.lolesports.com/players/MSF_DENYK.png",
+        "role": 4,
+        "teamId": 8,
+        "countryCode": "cz"
+      },
+      {
+        "id": 83,
+        "summonerName": "Kobbe",
+        "firstName": "Kasper",
+        "lastName": "Kobberup",
+        "image": "http://static.lolesports.com/players/MSF_KOBBE.png",
+        "role": 3,
+        "teamId": 8,
+        "countryCode": "dk"
+      },
+      {
+        "id": 85,
+        "summonerName": "Agresivoo",
+        "firstName": "Tobiasz",
+        "lastName": "Ciba",
+        "image": "http://static.lolesports.com/players/MSF_AGRESIVOO.png",
+        "role": 0,
+        "teamId": 8,
+        "countryCode": "pl"
+      },
+      {
+        "id": 80,
+        "summonerName": "HiRit",
+        "firstName": "Shin",
+        "lastName": "Tae-min",
+        "image": "http://static.lolesports.com/players/MSF_HIRIT.png",
+        "role": 0,
+        "teamId": 8,
+        "countryCode": "kr"
+      },
+      {
+        "id": 82,
+        "summonerName": "Vetheo",
+        "firstName": "Vincent",
+        "lastName": "Berri\u00e9",
+        "image": "http://static.lolesports.com/players/MSF_VETHEO.png",
+        "role": 2,
+        "teamId": 8,
+        "countryCode": "fr"
+      },
+      {
+        "id": 84,
+        "summonerName": "Vander",
+        "firstName": "Oskar",
+        "lastName": "Bogdan",
+        "image": "http://static.lolesports.com/players/MSF_VANDER.png",
+        "role": 4,
+        "teamId": 8,
+        "countryCode": "pl"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "schalke-04",
+    "name": "FC Schalke 04 Esports",
+    "code": "S04",
+    "image": "http://static.lolesports.com/teams/S04_Standard_Logo1.png",
+    "alternativeImage": "http://static.lolesports.com/teams/S04_Standard_Logo1.png",
+    "backgroundImage": "http://static.lolesports.com/teams/S04.png",
+    "status": "active",
+    "homeLeague": { "name": "LEC", "region": "EUROPE" },
+    "players": [
+      {
+        "id": 52,
+        "summonerName": "Abbedagge",
+        "firstName": "Felix",
+        "lastName": "Braun",
+        "image": "http://static.lolesports.com/players/S04_Abbedagge.png",
+        "role": 2,
+        "teamId": 5,
+        "countryCode": "de"
+      },
+      {
+        "id": 53,
+        "summonerName": "Neon",
+        "firstName": "Matus",
+        "lastName": "Jakubcik",
+        "image": "http://static.lolesports.com/players/S04_Neon.png",
+        "role": 3,
+        "teamId": 5,
+        "countryCode": "sk"
+      },
+      {
+        "id": 51,
+        "summonerName": "Gilius",
+        "firstName": "Erberk",
+        "lastName": "Demir",
+        "image": "http://static.lolesports.com/players/S04_Gilius.png",
+        "role": 1,
+        "teamId": 5,
+        "countryCode": "de"
+      },
+      {
+        "id": 50,
+        "summonerName": "BrokenBlade",
+        "firstName": "Sergen",
+        "lastName": "\u00c7elik",
+        "image": "http://static.lolesports.com/players/S04_BrokenBlade.png",
+        "role": 0,
+        "teamId": 5,
+        "countryCode": "de"
+      },
+      {
+        "id": 54,
+        "summonerName": "LIMIT",
+        "firstName": "Dino",
+        "lastName": "Tot",
+        "image": "http://static.lolesports.com/players/S04_Limit.png",
+        "role": 4,
+        "teamId": 5,
+        "countryCode": "hr"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "vitality",
+    "name": "Team Vitality",
+    "code": "VIT",
+    "image": "http://static.lolesports.com/teams/1592591570387_VitalityVIT-01-FullonDark.png",
+    "alternativeImage": "http://static.lolesports.com/teams/1592591570390_VitalityVIT-03-FullonLight.png",
+    "backgroundImage": "http://static.lolesports.com/teams/VIT.png",
+    "status": "active",
+    "homeLeague": { "name": "LEC", "region": "EUROPE" },
+    "players": [
+      {
+        "id": 101,
+        "summonerName": "Skeanz",
+        "firstName": "Duncan",
+        "lastName": "Marquet",
+        "image": "http://static.lolesports.com/players/VIT_SKEANZ.png",
+        "role": 1,
+        "teamId": 10,
+        "countryCode": "fr"
+      },
+      {
+        "id": 108,
+        "summonerName": "Comp",
+        "firstName": "Markos",
+        "lastName": "Stamkopoulos",
+        "image": "http://static.lolesports.com/players/VIT_COMP.png",
+        "role": 3,
+        "teamId": 10,
+        "countryCode": "gr"
+      },
+      {
+        "id": 102,
+        "summonerName": "Milica",
+        "firstName": "Aljo\u0161a",
+        "lastName": "Kovand\u017ei\u0107",
+        "image": "http://static.lolesports.com/players/VIT_MILICA.png",
+        "role": 2,
+        "teamId": 10,
+        "countryCode": "rs"
+      },
+      {
+        "id": 104,
+        "summonerName": "Labrov",
+        "firstName": "Labros",
+        "lastName": "Papoutsakis",
+        "image": "http://static.lolesports.com/players/VIT_LABROV.png",
+        "role": 4,
+        "teamId": 10,
+        "countryCode": "gr"
+      },
+      {
+        "id": 100,
+        "summonerName": "Szygenda",
+        "firstName": "Mathias",
+        "lastName": "Jensen",
+        "image": "http://static.lolesports.com/players/VIT_SZYGENDA.png",
+        "role": 0,
+        "teamId": 10,
+        "countryCode": "dk"
+      },
+      {
+        "id": 103,
+        "summonerName": "Crownshot",
+        "firstName": "Jus",
+        "lastName": "Marusic",
+        "image": "http://static.lolesports.com/players/1591899881632_Ju-CROWNSHOT-Marui-1.png",
+        "role": 3,
+        "teamId": 10,
+        "countryCode": "si"
+      }
+    ]
+  }
+]

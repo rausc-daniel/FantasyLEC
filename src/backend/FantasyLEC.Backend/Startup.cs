@@ -1,15 +1,11 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using FantasyLEC.Core;
+using FantasyLEC.Core.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 
 namespace FantasyLEC.Backend
@@ -26,11 +22,17 @@ namespace FantasyLEC.Backend
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddDbContext<FantasyLecDbContext>(options =>
+                options.UseNpgsql(Configuration.GetConnectionString("PostgreSQL")).EnableSensitiveDataLogging());
 
             services.AddControllers();
+
+            services.AddScoped<PlayerService>();
+            services.AddScoped<TeamService>();
+
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "FantasyLEC.Backend", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo {Title = "FantasyLEC.Backend", Version = "v1"});
             });
         }
 
@@ -50,10 +52,7 @@ namespace FantasyLEC.Backend
 
             app.UseAuthorization();
 
-            app.UseEndpoints(endpoints =>
-            {
-                endpoints.MapControllers();
-            });
+            app.UseEndpoints(endpoints => { endpoints.MapControllers(); });
         }
     }
 }
